@@ -4,6 +4,7 @@ TAG_VERSION=${1:-default}
 
 cd ~/
 pwd
+echo "hello world, $TAG_VERSION"
 cd Documents/
 pwd
 cd ~/
