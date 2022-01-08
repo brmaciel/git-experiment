@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TAG_VERSION=${1:-default}
+TAG_VERSION=${1:-main}
 
 cd ~/Desktop/
 mkdir tryshell
