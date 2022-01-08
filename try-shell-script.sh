@@ -4,7 +4,7 @@ TAG_VERSION=${1:-default}
 
 cd ~/
 pwd
-cd Documents
+cd Documents/
 pwd
 cd ~/
 
